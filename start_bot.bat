@@ -1,0 +1,1 @@
+py c:\1stbt\bot.py
